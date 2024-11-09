@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/074f5e9d-e50f-4ea8-b741-0fa072f2988c)
 
-
+            
 ## Introduction
    
 This project explores the use of Large Language Models (LLMs) for implementing semantic search, a powerful approach that enhances traditional keyword-based search by understanding the meaning and context behind queries. Unlike conventional methods, semantic search enables models to find relevant results by interpreting the intent and meaning of the input, producing more accurate and contextually aligned responses. By leveraging LLMs, embeddings, and various retrieval techniques, this project demonstrates how to perform high-quality semantic search and generate relevant answers efficiently.
